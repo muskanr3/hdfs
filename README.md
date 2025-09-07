@@ -1,8 +1,5 @@
 # Network File System from scratch
 
-Course Project for the course CS3.301: **Operating Systems and Networks**
-
-Monsoon 2023, IIIT Hyderabad.
 ## Table of Contents
 
 - [Network File System from scratch](#network-file-system-from-scratch)
@@ -34,12 +31,6 @@ Monsoon 2023, IIIT Hyderabad.
   - [Resources used](#resources-used)
     - [Miscelleneous Implementation Specific Resources](#miscelleneous-implementation-specific-resources)
   - [Challenges faced](#challenges-faced)
-
-## Team
-
-2021113013 - [Radhikesh Agrawal](mailto:radhikesh.agrawal@research.iiit.ac.in) <br>
-2021114008 - [Harinie Sivaramasethu](mailto:harinie.s@research.iiit.ac.in) <br>
-2021115008 - [Arghya Roy](mailto:arghya.roy@research.iiit.ac.in) <br>
 
 ## Instructions to run
 ```bash
